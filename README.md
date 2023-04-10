@@ -1,12 +1,8 @@
 # netmusic-app
-欢迎star issue
 
 仿网易云音乐APP的微信小程序
 
-[还有Vue版本哦](https://github.com/sqaiyan/neteasemusic)
 
-需后端支持
-下载启动[node服务端](https://github.com/sqaiyan/netmusic-node)即可
 
 ### 目前实现功能
 
@@ -44,8 +40,6 @@
 <image width="340" src="https://github.com/sqaiyan/NeteaseMusicWxMiniApp/raw/master/screenshot/IMG_4275.PNG"/>
 <image width="340" src="https://github.com/sqaiyan/NeteaseMusicWxMiniApp/raw/master/screenshot/IMG_4273.PNG"/>
 
-### 如果本示例对您学习小程序有帮助欢迎大佬赏杯奶茶喝
-<image width="220" src="https://github.com/sqaiyan/NeteaseMusicWxMiniApp/raw/master/screenshot/wx.jpg"/><image width="220" src="https://github.com/sqaiyan/NeteaseMusicWxMiniApp/raw/master/screenshot/zfb.jpg"/>
 
 
 
